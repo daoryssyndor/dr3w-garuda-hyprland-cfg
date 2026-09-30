@@ -1,2 +1,6 @@
 .DS_Store
 *.log
+
+# Credentials and personal application state removed from public history
+/pulse/cookie
+/falkon/profiles/garuda/
